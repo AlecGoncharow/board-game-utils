@@ -1,0 +1,8 @@
+BoardGames(
+    name: "minimal",
+    entries: [
+        (
+            name: "Monikers",
+        ),
+    ]
+)

@@ -1,0 +1,13 @@
+BoardGames(
+    name: "simple",
+    entries: [
+        (
+            name: "Monikers",
+            bgg_id: 0,
+            rating: 10,
+            shelf_of_shame: false,
+            date_acquired: "2020-10-01",
+            last_played: "2022-06-11",
+        ),
+    ]
+)
